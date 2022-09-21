@@ -2,7 +2,11 @@ numpy
 pandas
 xarray
 hvplot
+holoviews
+geoviews
 datashader
+cartopy
+bokeh
 dask
 netcdf4
 pydap
