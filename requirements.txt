@@ -11,3 +11,4 @@ rioxarray
 xmip
 gcsfs
 zarr
+matplotlib
