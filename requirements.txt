@@ -8,3 +8,5 @@ netcdf4
 pydap
 geopandas
 rioxarray
+xmip
+gcsfs
