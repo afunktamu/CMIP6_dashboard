@@ -30,6 +30,7 @@ dependencies:
   - cairo=1.16.0=ha61ee94_1014
   - cartopy=0.21.0=py39hf5d525c_0
   - certifi=2022.9.14=pyhd8ed1ab_0
+  - cf_xarray=0.7.4=pyhd8ed1ab_0
   - cffi=1.15.1=py39he91dace_0
   - cfitsio=4.1.0=hd9d235c_0
   - cftime=1.6.2=py39h2ae25f5_0
